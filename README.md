@@ -8,7 +8,7 @@
 - 🌱 I’m currently focusing on React, Front-end ve Flutter  Technologies.
 - 💞️ I am always open to collaboration and capable of working harmoniously with a team.
 - 📫 Respected by both the customers and colleagues thanks to profound communication skills. 
-- Believes generating high-impact results through following ethical standards and teamwork.
+Believes generating high-impact results through following ethical standards and teamwork.
 
 <!---
 zehrasulucay/zehrasulucay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

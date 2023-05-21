@@ -3,7 +3,7 @@
    Hi, I'm Zehra SULUCAY. I'm a dedicated programmer on the path to becoming a professional in software development, 
    driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
-- 👋 Hi, I’m @zehrasulucay
+ 
 - 👀 What matters to me is that the code is implementable, functional, and readable.
 - 🌱 I’m currently focusing on React, Front-end ve Flutter  Technologies.
 - 💞️ I am always open to collaboration and capable of working harmoniously with a team.
